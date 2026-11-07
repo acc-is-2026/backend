@@ -1,0 +1,1 @@
+ALTER TYPE "MediaType" RENAME VALUE 'TV_SHOW' TO 'TV';
